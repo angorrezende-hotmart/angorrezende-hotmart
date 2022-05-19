@@ -3,8 +3,6 @@
 About me
 
 <p>
-Hello World! 🚀
-
 My name is Angor Volpi, I'm deaf and Brazilian [🇧🇷]
 
 I've been in the IT area for over nine years, and at the moment I'm starting my studies to be an IOS developer, currently, I work in the area of ​​content creation as a development assistant in IOS (Swift) at HOTMART 🔥
